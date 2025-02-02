@@ -15,7 +15,7 @@ const About = () => {
               <p>Hi! I'm Rafael, nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p>Originally from Rio de janeiro, Brazil (and EU Citizen), I have completed a full-stack web development course at Le Wagon Bootcamp. I'm a patient and easy-going person, who possess excelent communication, proactive and problem-solving strengths.</p>
+              <p>Originally from Rio de Janeiro, Brazil, and an EU citizen, I am a full-stack web developer trained at Le Wagon Bootcamp. I am a patient and easy-going individual with excellent communication skills, a proactive mindset, and strong problem-solving abilities. After completing the bootcamp, I continued my education by pursuing a degree in Software Engineering, where I have been deepening my technical and practical knowledge. Additionally, I have completed several recognized courses, earning certifications from Meta and HarvardX, which highlight my commitment to continuous learning. With over 3 years of experience as a frontend developer, I bring a solid foundation in building user-friendly and efficient web applications, combined with a passion for innovation and growth in the tech industry.</p>
             </div>
           </div>
       </div>
